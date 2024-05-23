@@ -1,5 +1,9 @@
 # Whitelist with Merkle Tree
 
+<p align="center">
+  <img src="./img/merkle_tree.png" />
+</p>
+
 ## Overview
 This Solidity project demonstrates how to use a Merkle Tree data structure to implement a whitelist mechanism for a smart contract. Instead of storing addresses in storage memory, which can be expensive in terms of gas fees, this approach leverages the efficiency and security of Merkle Trees. <br>
 
